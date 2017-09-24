@@ -8,7 +8,7 @@ Los números felices se definen por el siguiente procedimiento: empezando con cu
 7<sup>2</sup> = 49 <br/>
 4<sup>2</sup> + 9<sup>2</sup> = 97 <br/>
 9<sup>2</sup> + 7<sup>2</sup> = 130 <br/>
-1<sup>2</sup> + 3<sup>2</sup> + 02 = 10 <br/>
+1<sup>2</sup> + 3<sup>2</sup> + 0<sup>2</sup> = 10 <br/>
 1<sup>2</sup> + 0<sup>2</sup> = 1 <br/>
 
 Fuente: <a href="https://es.wikipedia.org/wiki/N%C3%BAmero_feliz">Wikipedia</a>
